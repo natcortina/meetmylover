@@ -1,0 +1,334 @@
+
+
+h1{
+
+text-align: center;
+color: black;
+font-size: 60px;
+font-family: 'Homemade Apple', cursive;
+display: inline;
+}
+
+p{
+	
+	font-family: 'Homemade Apple', cursive;
+	font-size: 40px;
+	left: 300px;
+	right: 500px;
+	display: inline;
+}
+
+body{
+text-align: center;
+	margin: 20;
+	background-color:  #002199;
+}
+
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+
+.lover {
+
+
+	color: black;
+    font-size: 60px;
+    font-family: 'Homemade Apple', cursive;
+    display: inline;
+
+
+}
+
+.name {
+
+	color: black;
+    font-size: 30px;
+    font-family: 'Homemade Apple', cursive;
+    margin-bottom: 0px;
+
+
+}
+
+.heart {
+
+	color: black;
+    font-size: 30px;
+    font-family: 'Homemade Apple', cursive;
+    display: inline;
+
+
+}
+
+
+.img-papel{
+
+	background-repeat: no-repeat;
+	background-image: url(eye2.jpeg);
+	background-size: cover;
+	color: yellow;
+
+	padding-top: 100px;
+	padding-bottom: 100px;
+
+}
+
+
+.confidante {
+
+	color: black;
+    font-size: 40px;
+    font-family: 'Nothing You Could Do', cursive;
+    display: inline;
+
+}
+
+.img-dance{
+
+	background-repeat: no-repeat;
+	background-image: url(dance.png);
+	background-size: cover;
+	max-width: 80px;
+	padding: 300px;
+	margin-left: 600px;
+	
+}
+
+.img-dance :hover {
+
+	background-image: url(dance.jpeg);
+	background-size: cover;
+	max-width: 500px;
+	padding: 300px;
+	margin-left: 800px;
+
+}
+
+.hands {
+
+   position: relative;
+   width: 100%;
+   height: 100%;
+   object-fit: cover;
+ margin-top: -90px;
+	
+}
+
+
+
+.rather {
+
+text-align: left;
+margin-left: 100px;
+  color: black;
+    font-size: 50px;
+   font-family: 'Homemade Apple', cursive;
+    
+	
+}
+
+.jealous {
+
+text-align: left;
+margin-left: 100px;
+  color: black;
+    font-size: 50px;
+   font-family: 'Homemade Apple', cursive;
+    
+	
+}
+
+.happy {
+
+	color: black;
+    font-size: 60px;
+    font-family: 'Nothing You Could Do', cursive;
+    display: inline;
+    margin-left: 0px;
+    
+	
+}
+
+.lady {
+
+ position: absolute;
+   width: 400;
+   height: 500;
+   margin-left: 670px;
+   margin-top: -700px;
+   z-index: 3;
+	
+}
+
+.life {
+
+text-align: left;
+margin-left: 100px;
+  color: black;
+    font-size: 60px;
+   font-family: 'Homemade Apple', cursive;
+    
+	
+}
+
+.dreamer {
+
+text-align: right;
+margin-left: 100px;
+  color: black;
+    font-size: 40px;
+   font-family: 'Homemade Apple', cursive;
+ 
+ padding: 80px;
+	
+}
+
+
+
+.cloud {
+
+ position: relative;
+   width: 100%;
+   height: 100%;
+	
+	
+}
+
+.cloud :hover {
+
+background-repeat: repeat;
+
+	 position: relative;
+   width: 70%;
+   height: 70%;
+
+}
+
+
+
+.child {
+
+background-image: url(child.png);
+ position: relative;
+ left: -250px;
+ bottom: 250px;
+  width: 600px;
+  height: 700px;
+
+
+ z-index: 2;
+	
+	
+}
+
+.talker {
+
+	color: black;
+    font-size: 40px;
+    font-family: 'Homemade Apple', cursive;
+    display: inline;
+ z-index: 2;
+
+}
+
+
+.zebra {
+
+background-image: url(zebra.png);
+
+
+   width: 500px;
+   height: 700px;
+   object-fit: cover;
+ z-index: 1;
+	
+	
+}
+
+
+.believer {
+
+text-align: left;
+	color: black;
+    font-size: 40px;
+    font-family: 'Homemade Apple', cursive;
+
+
+
+}
+
+.goodness {
+
+text-align: left;
+	color: black;
+    font-size: 40px;
+    font-family: 'Homemade Apple', cursive;
+  padding: 80px;
+
+
+}
+
+.soulmate {
+
+	color: black;
+    font-size: 100px;
+       font-family: 'Nothing You Could Do', cursive;
+    display: inline;
+ z-index: 2;
+
+}
+
+
+.meant {
+
+	color: black;
+    font-size: 70px;
+    font-family: 'Homemade Apple', cursive;
+
+
+
+}
+
+.is {
+
+	color: black;
+    font-size: 50px;
+    font-family: 'Homemade Apple', cursive;
+
+}
+
+
+.nat {
+
+background-image: url(Nat.png);
+
+
+   width: 30px;
+   height: 40px;
+    margin-top: -700px;
+	 z-index: 2;
+	
+}
+
+.hearts {
+
+    font-size: 90px;
+    font-family: 'Nothing You Could Do', cursive;
+
+	
+}
+
